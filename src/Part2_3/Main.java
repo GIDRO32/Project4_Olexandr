@@ -1,2 +1,4 @@
-package Part2_3;public class Main {
+package Part2_3;
+
+public class Main {
 }
